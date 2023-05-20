@@ -13,6 +13,10 @@ export class SmallCardComponent implements OnInit {
   @Input()
   cardTitle:string ="Nova temporada de Boku no Hero Academia!"
 
+  @Input()
+  Id:string ='0'
+
+
   constructor() { }
 
   ngOnInit(): void {

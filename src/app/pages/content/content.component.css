@@ -9,10 +9,6 @@
     align-items: center;
 }
 
-.content-cover {
-
-}
-
 .content-cover > img {
     border: 5px solid rgb(144, 144, 144);
     min-width: 500px;
